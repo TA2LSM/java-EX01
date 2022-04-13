@@ -3,11 +3,11 @@ package com.ta2lsm;
 /**
  * JAVA uygulamasına ait ana class
  */
-public final class App {
+public final class HelloWorld {
     /**
      * Uygulamaya özgü dışarıdan erişilemeyecek kodlar
      */
-    private App() {
+    private HelloWorld() {
         //...
     }
 
